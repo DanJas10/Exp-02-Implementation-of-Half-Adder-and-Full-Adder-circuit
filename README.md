@@ -44,54 +44,62 @@ RegisterNumber:  23012930
 Logic symbol & Truthtable
 RTL realization
 
-CODE:
-   HALF ADDER:
+# CODE:
+
+ ###  HALF ADDER:
            
 ![code](https://github.com/DanJas10/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931233/3cff4712-05d3-4e0f-b73c-4913893f2d2e)
 
-   FULL ADDER:
+ ###  FULL ADDER:
    
 ![code PNG](https://github.com/DanJas10/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931233/3e793c7a-d37d-4ba8-9f2a-62fa5389b90a)
 
                               
 
 
-### RTL DIAGRAM:
+# RTL DIAGRAM:
 
- HALF ADDER:
+### HALF ADDER:
  
 ![RTL](https://github.com/DanJas10/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931233/d20c9c7a-c916-4ed8-bf56-e6bbda3d8377)
 
 
- FULL ADDER:
- 
-![RTL](https://github.com/DanJas10/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931233/a34c086a-d9a1-4a1e-bc62-14c0293a3298)
+### FULL ADDER:
+ ![RTL](https://github.com/DanJas10/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931233/96835aca-eb7f-457b-8cc5-92e1ad8ccb13)
+
 
 
 
                                     
-### TIMING DIAGRAM:
- HALF ADDER:
+# TIMING DIAGRAM:
+
+### HALF ADDER:
+ 
 ![output](https://github.com/DanJas10/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931233/112815b5-bf3e-4b3a-8971-8e7b9ea58247)
 
 
- FULL ADDER:
+### FULL ADDER:
+ 
 FULL![output](https://github.com/DanJas10/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931233/2d93a79f-c2ca-461e-89c6-a46d6b4946f8)
  
    
 
 
-### TRUTH TABLE :
-HALF ADDER:
+# TRUTH TABLE :
+
+### HALF ADDER:
+
 ![truth table](https://github.com/DanJas10/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931233/f10b75d8-3c66-40dc-9d6f-723bdca8d905)
 
 
 
-FULL ADDER:
+### FULL ADDER:
+
 ![truth table](https://github.com/DanJas10/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931233/eeac2de7-7515-4a12-b507-e679b07b2657)
 
 
 
-### Result:
- Thus,the implementation of Half Adder and Full Adder circuits are verified.
+# Result:
+
+ Thus,the half adder and full adder circuits are designed and the truth tables is verified using quartus software.
 
