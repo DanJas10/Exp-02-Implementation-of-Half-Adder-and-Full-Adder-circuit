@@ -65,6 +65,7 @@ RTL realization
 
 
 ### FULL ADDER:
+
  ![RTL](https://github.com/DanJas10/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931233/96835aca-eb7f-457b-8cc5-92e1ad8ccb13)
 
 
