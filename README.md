@@ -56,12 +56,15 @@ CODE:
                               
 
 
-### RTL:
+### RTL DIAGRAM:
+
  HALF ADDER:
+ 
 ![RTL](https://github.com/DanJas10/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931233/d20c9c7a-c916-4ed8-bf56-e6bbda3d8377)
 
 
  FULL ADDER:
+ 
 ![RTL](https://github.com/DanJas10/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931233/a34c086a-d9a1-4a1e-bc62-14c0293a3298)
 
 
